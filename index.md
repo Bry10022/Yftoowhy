@@ -2,9 +2,11 @@
 <html>
   <body>
     <span style="font-size:16px;font-family:Yftoowhy">Latest version of the font</span>
-    <img src="https://bry10022.github.io/HTMLstuffs/docs/assets/images/Version.svg" alt="Current Version" height="200">
+    <img src="https://bry10022.github.io/Yftoowhy/docs/assets/images/Version.svg" alt="Current Version" height="200">
     <span style="font-size:16px;font-family:Yftoowhy">Current version of the font (if you have it installed):</span>
+    <br>
     <span style="font-size:200px;font-family:Yftoowhy"></span>
+    <br>
     <span style="font-size:16px;font-family:Yftoowhy">
       If the above does not match, then the possible might be true:
       <ul>
