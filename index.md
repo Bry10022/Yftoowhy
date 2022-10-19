@@ -2,7 +2,9 @@
 <html>
   <body>
     <span style="font-size:16px;font-family:Yftoowhy">Latest version of the font</span>
+    <br>
     <img src="https://bry10022.github.io/Yftoowhy/docs/assets/images/Version.svg" alt="Current Version" height="200">
+    <br>
     <span style="font-size:16px;font-family:Yftoowhy">Current version of the font (if you have it installed):</span>
     <br>
     <span style="font-size:200px;font-family:Yftoowhy"></span>
@@ -18,6 +20,6 @@
       </ul>
     </span>
     <br>
-    <a href="https://github.com/Bry10022/YftoowhyFont/blob/main/Yftoow-R.ttf?raw=true">Click here to download the Yftoowhy Font.</a>
+    <span style="font-size:16px;font-family:Yftoowhy"><a href="https://github.com/Bry10022/YftoowhyFont/blob/main/Yftoow-R.ttf?raw=true">Click here to download the Yftoowhy Font.</a></span>
   </body>
 </html>
